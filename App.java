@@ -17,5 +17,13 @@ class App {
 		System.out.println("-----Zadanie 2-----");
 		System.out.println("Zakopane citizens: "+zakopane);
 		System.out.println();
+		
+		// Zadanie 3
+		short first = 17340;
+		byte second = (byte) first;
+		
+		System.out.println("-----Zadanie 3-----");
+		System.out.println("Second: "+second);
+		System.out.println();
 	}
 }
